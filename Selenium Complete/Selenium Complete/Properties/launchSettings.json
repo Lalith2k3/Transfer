@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Selenium Complete (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Selenium Complete (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
